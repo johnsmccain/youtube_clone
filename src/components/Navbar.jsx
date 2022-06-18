@@ -25,7 +25,7 @@ const Navbar = () => {
         <Typography
           sx={{fontSize:25, color: 'red', fontWeight: 800}}
         >
-          U📺tube
+          U2UP
         </Typography>
       </Link>
       <SearchBar/>

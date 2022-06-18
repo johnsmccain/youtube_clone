@@ -15,7 +15,7 @@ const Feed = () => {
       fetchData(`search?part=snippet&chart=mostPopular`);
     }
     fetchOtherData('videoCategories?part=snippet');
-    document.title ='MeTUBE'
+    document.title ='U2UP'
 
   }, [keyword])
   if (loading ){
